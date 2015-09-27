@@ -25,3 +25,50 @@
 .img-responsive {
     margin: 0 auto;
 }
+
+.footer{
+	background-attachment: fixed;
+	position: relative;
+	line-height: 20px;
+}
+
+.footer nav > ul{
+	line-style: outside none none;
+	margin: 0px;
+	padding: 0px;
+	font-weight: normal;
+}
+
+.footer nav > ul > li{
+	display: inline-block;
+	padding: 10px 15px;
+	margin: 15px 3px;
+	line-height: 20px;
+	text-align: center;
+}
+
+.footer nav > ul a{
+	color: #777;
+	display: block;
+	margin-bottom: 3px;
+}
+
+.footer nav > ul a:hover{
+	color: #E3E3E3;
+}
+
+.footer div.github{
+	padding:10px 15px;
+	font-size: 18px;
+	margin: 15px 3px;
+	line-height: 20px;
+	text-align: center;
+}
+
+.footer div > a{
+	color: #777;
+}
+
+.footer div > a:hover{
+	color: #E3E3E3;
+}
