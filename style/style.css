@@ -1,5 +1,5 @@
 .header {
-	background-image: url("../images/sample.png");
+	background: url("../images/sample.png");
 	background-position: center top;
 	margin-top: -160px;
 	min-height: 600px; 
@@ -71,4 +71,9 @@
 
 .footer div > a:hover{
 	color: #E3E3E3;
+}
+
+#download{
+	margin-bottom: 0px;
+	border-radius: 0px;
 }
