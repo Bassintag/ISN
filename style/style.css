@@ -1,9 +1,10 @@
 .header {
-	background-color: #9CE4BC;
+	background-image: url("../images/sample.png");
 	background-position: center top;
 	margin-top: -160px;
 	min-height: 600px; 
 	background-size: cover;
+	background-attachment: fixed;
 }
 
 .header .motto {
