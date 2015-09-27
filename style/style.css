@@ -1,0 +1,22 @@
+.header {
+	background-color: #9CE4BC;
+	background-position: center top;
+	margin-top: -160px;
+	min-height: 600px; 
+	background-size: cover;
+}
+
+.header .motto {
+	color: #fff;
+	padding-top: 15%;
+	text-align: center;
+}
+
+.logo-container .brand {
+	font-size: 32px;
+	color: #fff;
+	line-height: 20px;
+	float: left;
+	margin-left: 10px;
+	margin-top: 15px;
+}
